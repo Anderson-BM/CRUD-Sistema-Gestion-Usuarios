@@ -19,5 +19,8 @@ El loguin dirige al Usuario a su respectiva ventana dependiendo de de su usuario
 ![image](https://github.com/user-attachments/assets/0994cd62-466f-4240-8ef0-66a174a926f4)
 
 
+
+
+
 --- ESTRUCTURA DE EL PROYECTO 
 ![image](https://github.com/user-attachments/assets/1d1116c0-cc87-4390-95c7-918f52b863de)
