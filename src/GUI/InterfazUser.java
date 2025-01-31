@@ -189,7 +189,7 @@ public class InterfazUser extends JFrame {
 		texNombre.setColumns(10);
 		
 		JLabel lblUsuarioRegular_1_1 = new JLabel("Nombre:");
-		lblUsuarioRegular_1_1.setBounds(10, 112, 116, 50);
+		lblUsuarioRegular_1_1.setBounds(10, 105, 116, 50);
 		panelAgg.add(lblUsuarioRegular_1_1);
 		lblUsuarioRegular_1_1.setForeground(Color.WHITE);
 		lblUsuarioRegular_1_1.setFont(new Font("Tahoma", Font.BOLD, 20));
