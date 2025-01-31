@@ -1,4 +1,4 @@
-# Sistema-Gesti-n-Usuarios
+# Sistema-Gestion-Usuarios
 Sistemas para gestionar usuarios se comprende, de un LOGUIN, el panel de el ADMINISTRADOR, y el panel de le USUARIO, donde cada uno puede realizar una tarea en especifico
 
 -------LEGUANJES DE DESARROLLO: 
